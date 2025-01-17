@@ -44,9 +44,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Muhammad-Nasser-Flutter/Muhammad-Nasser-Flutter/output/snake.svg" alt="Snake animation" />
-
-###
