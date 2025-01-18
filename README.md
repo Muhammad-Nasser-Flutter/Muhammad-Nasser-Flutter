@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammad Nasser and I'm a Software Engineer, from Cairo, Egypt</h2>
+<h2 align="left">Hi 👋! My name is Muhammad Nasser and I'm a Software Engineer, from Egypt.</h2>
 
 ###
 
